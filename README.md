@@ -1,0 +1,1 @@
+Enzyme Full DOM Rendering + FetchMock
